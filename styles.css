@@ -25,8 +25,8 @@ body {
 	justify-content: center;
 	min-height: 100vh;
 	padding: 3rem;
-	background: url("/images/bg-pattern-top.svg"),
-		url("/images/bg-pattern-bottom.svg"), var(--color-dark-cyan);
+	background: url("./images/bg-pattern-top.svg"),
+		url("./images/bg-pattern-bottom.svg"), var(--color-dark-cyan);
 	background-repeat: no-repeat;
 	background-position: right calc(47vw + 15%) bottom calc(65vh - 15vw),
 		left calc(40vw + 25%) top calc(72vh - 10vw);
